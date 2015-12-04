@@ -1,11 +1,12 @@
 {
   "name": "jstree-bootstrap-theme",
-  "version": "1.0.1",
+  "version": "1.0.1.1",
   "homepage": "https://github.com/orangehill/jstree-bootstrap-theme",
   "description": "Reponsive jsTree Twitter Bootstrap 3 Compatible Theme",
   "main": "./dist/themes/proton/style.css",
   "authors": [
-    "Orange Hill Development <vedran.opacic@orangehilldev.com>"
+    "Orange Hill Development <vedran.opacic@orangehilldev.com>",
+    "Jean-Philippe VANTELON <jpvantelon@astek.fr>"
   ],
   "keywords": [
     "jquery",
@@ -21,8 +22,8 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": ">= 1.11.1",
-    "bootstrap": "~3.0",
-    "jstree": "~3.0.4"
+    "jquery": "^2.0",
+    "bootstrap": "^3.0",
+    "jstree": "^3.0"
   }
 }
