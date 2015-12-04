@@ -1,9 +1,10 @@
+/.idea
+/bower_components
 /debug
+/demo/filebrowser/data/root
+/node_modules
+/nuget
+/site
 /jstree.sublime-project
 /jstree.sublime-workspace
-/bower_components
-/node_modules
-/site
-/nuget
-/demo/filebrowser/data/root
 /npm.txt
