@@ -22,8 +22,8 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": ">=1.9.1",
-    "bootstrap": ">=3.0",
-    "jstree": ">=3.0"
+    "jquery": "^1.9",
+    "bootstrap": "~3.3.5",
+    "jstree": "^3.0"
   }
 }
