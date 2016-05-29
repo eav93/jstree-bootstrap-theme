@@ -1,6 +1,6 @@
 {
   "name": "jstree-bootstrap-theme",
-  "version": "1.0.1.2",
+  "version": "1.0.2",
   "homepage": "https://github.com/orangehill/jstree-bootstrap-theme",
   "description": "Reponsive jsTree Twitter Bootstrap 3 Compatible Theme",
   "main": "./dist/themes/proton/style.css",
