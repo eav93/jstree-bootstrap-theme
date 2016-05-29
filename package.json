@@ -2,8 +2,8 @@
   "name": "jstree-bootstrap-theme",
   "title": "jstree-bootstrap-theme",
   "description": "Bootstrap theme for jsTree 3",
-  "version": "1.0.1.1",
-  "homepage": "https://github.com/orangehill/jstree-bootstrap-theme",
+  "version": "1.0.2",
+  "homepage": "https://github.com/eav93/jstree-bootstrap-theme",
   "author": {
     "name": "Vedran Opacic @ Orange Hill Development",
     "email": "vedran.opacic@orangehilldev.com"
@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jpvantelon/jstree-bootstrap-theme.git"
+    "url": "git://github.com/eav93/jstree-bootstrap-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/jpvantelon/jstree-bootstrap-theme/issues"
+    "url": "https://github.com/eav93/jstree-bootstrap-theme/issues"
   },
   "licenses": [
     {
